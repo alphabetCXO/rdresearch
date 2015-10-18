@@ -1,3 +1,6 @@
+## 1. 安装perl(支持多线程)
+`./Configure -des -Dprefix=/usr/local/perl -Dusethreads`  
+
 ## Tools  
 * perl==`5.18.1`  
 >  threads-2.01.tar.gz  
